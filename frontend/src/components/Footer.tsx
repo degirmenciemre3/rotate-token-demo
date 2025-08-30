@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="https://github.com/degirmenciemre3" 
+                  href="https://github.com/degirmenciemre3/rotate-token-demo" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-sm text-gray-600 hover:text-primary-600 transition-colors"
